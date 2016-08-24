@@ -1,0 +1,16 @@
+.big-border {
+  border:5vw solid $colors--main;
+}
+
+.big-border--lrb { /* left right bottom */
+  border-top: none;
+}
+
+.big-border--ltr { /* left top right */
+  border-bottom: none;
+}
+
+.big-border--lr { /* left right */
+  border-bottom: none;
+  border-top: none;
+}

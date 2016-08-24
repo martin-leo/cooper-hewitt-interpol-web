@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate-web",
+  "version": "0.0.1",
+  "description": "Boilerplate pour le web",
+  "main": "site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Léo Martin",
+  "license": "GNU",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-accessibility": "^4.2.0",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-htmllint-http": "^0.3.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-stripcomments": "^0.6.0"
+  }
+}

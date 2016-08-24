@@ -1,0 +1,594 @@
+/*  Cooper Hewitt Interpol 1 @fontfaces
+
+    - Available styles :
+      - normal
+      - italic
+
+     - Available weights :
+      - 100 : Thin
+      - 300 : Light
+      - 400/normal : Book
+      - 500 : Medium
+      - 600 : Semibold
+      - 700/bold : Bold
+      - 900 : Heavy
+*/
+
+/* Thin */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Thin.eot');
+  src: url('../fonts/CooperHewittInterpol1-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Thin.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Thin.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Thin.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Thin.svg') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-ThinItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-ThinItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-ThinItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-ThinItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-ThinItalic.svg') format('svg');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Light */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Light.eot');
+  src: url('../fonts/CooperHewittInterpol1-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Light.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Light.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Light.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-LightItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-LightItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-LightItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-LightItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-LightItalic.svg') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Book */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Book.eot');
+  src: url('../fonts/CooperHewittInterpol1-Book.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Book.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Book.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Book.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Book.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-BookItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-BookItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-BookItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-BookItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-BookItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-BookItalic.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Medium.eot');
+  src: url('../fonts/CooperHewittInterpol1-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Medium.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Medium.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Medium.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-MediumItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-MediumItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-MediumItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-MediumItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-MediumItalic.svg') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Semibold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Semibold.eot');
+  src: url('../fonts/CooperHewittInterpol1-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Semibold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Semibold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Semibold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Semibold.svg') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-SemiboldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-SemiboldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-SemiboldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-SemiboldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-SemiboldItalic.svg') format('svg');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Bold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Bold.eot');
+  src: url('../fonts/CooperHewittInterpol1-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Bold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Bold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Bold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-BoldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-BoldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-BoldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-BoldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-BoldItalic.svg') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Heavy */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-Heavy.eot');
+  src: url('../fonts/CooperHewittInterpol1-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-Heavy.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-Heavy.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-Heavy.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-Heavy.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 1';
+  src: url('../fonts/CooperHewittInterpol1-HeavyItalic.eot');
+  src: url('../fonts/CooperHewittInterpol1-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol1-HeavyItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol1-HeavyItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol1-HeavyItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol1-HeavyItalic.svg') format('svg');
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+/*  Cooper Hewitt Interpol 2 @fontfaces
+
+    - Available styles :
+      - normal
+      - italic
+
+     - Available weights :
+      - 100 : Thin
+      - 300 : Light
+      - 400/normal : Book
+      - 500 : Medium
+      - 600 : Semibold
+      - 700/bold : Bold
+      - 900 : Heavy
+*/
+
+/* Thin */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Thin.eot');
+  src: url('../fonts/CooperHewittInterpol2-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Thin.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Thin.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Thin.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Thin.svg') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-ThinItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-ThinItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-ThinItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-ThinItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-ThinItalic.svg') format('svg');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Light */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Light.eot');
+  src: url('../fonts/CooperHewittInterpol2-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Light.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Light.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Light.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-LightItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-LightItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-LightItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-LightItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-LightItalic.svg') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Book */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Book.eot');
+  src: url('../fonts/CooperHewittInterpol2-Book.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Book.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Book.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Book.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Book.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-BookItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-BookItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-BookItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-BookItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-BookItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-BookItalic.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Medium.eot');
+  src: url('../fonts/CooperHewittInterpol2-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Medium.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Medium.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Medium.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-MediumItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-MediumItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-MediumItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-MediumItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-MediumItalic.svg') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Semibold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Semibold.eot');
+  src: url('../fonts/CooperHewittInterpol2-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Semibold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Semibold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Semibold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Semibold.svg') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-SemiboldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-SemiboldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-SemiboldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-SemiboldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-SemiboldItalic.svg') format('svg');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Bold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Bold.eot');
+  src: url('../fonts/CooperHewittInterpol2-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Bold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Bold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Bold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-BoldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-BoldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-BoldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-BoldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-BoldItalic.svg') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Heavy */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-Heavy.eot');
+  src: url('../fonts/CooperHewittInterpol2-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-Heavy.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-Heavy.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-Heavy.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-Heavy.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 2';
+  src: url('../fonts/CooperHewittInterpol2-HeavyItalic.eot');
+  src: url('../fonts/CooperHewittInterpol2-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol2-HeavyItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol2-HeavyItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol2-HeavyItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol2-HeavyItalic.svg') format('svg');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/*  Cooper Hewitt Interpol 3 @fontfaces
+
+    - Available styles :
+      - normal
+      - italic
+
+     - Available weights :
+      - 100 : Thin
+      - 300 : Light
+      - 400/normal : Book
+      - 500 : Medium
+      - 600 : Semibold
+      - 700/bold : Bold
+      - 900 : Heavy
+*/
+
+/* Thin */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Thin.eot');
+  src: url('../fonts/CooperHewittInterpol3-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Thin.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Thin.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Thin.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Thin.svg') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-ThinItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-ThinItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-ThinItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-ThinItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-ThinItalic.svg') format('svg');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Light */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Light.eot');
+  src: url('../fonts/CooperHewittInterpol3-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Light.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Light.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Light.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-LightItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-LightItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-LightItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-LightItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-LightItalic.svg') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Book */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Book.eot');
+  src: url('../fonts/CooperHewittInterpol3-Book.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Book.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Book.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Book.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Book.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-BookItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-BookItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-BookItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-BookItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-BookItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-BookItalic.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Medium.eot');
+  src: url('../fonts/CooperHewittInterpol3-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Medium.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Medium.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Medium.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-MediumItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-MediumItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-MediumItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-MediumItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-MediumItalic.svg') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Semibold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Semibold.eot');
+  src: url('../fonts/CooperHewittInterpol3-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Semibold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Semibold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Semibold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Semibold.svg') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-SemiboldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-SemiboldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-SemiboldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-SemiboldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-SemiboldItalic.svg') format('svg');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Bold */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Bold.eot');
+  src: url('../fonts/CooperHewittInterpol3-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Bold.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Bold.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Bold.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-BoldItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-BoldItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-BoldItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-BoldItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-BoldItalic.svg') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Heavy */
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-Heavy.eot');
+  src: url('../fonts/CooperHewittInterpol3-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-Heavy.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-Heavy.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-Heavy.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-Heavy.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt Interpol 3';
+  src: url('../fonts/CooperHewittInterpol3-HeavyItalic.eot');
+  src: url('../fonts/CooperHewittInterpol3-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CooperHewittInterpol3-HeavyItalic.woff2') format('woff2'),
+    url('../fonts/CooperHewittInterpol3-HeavyItalic.woff') format('woff'),
+    url('../fonts/CooperHewittInterpol3-HeavyItalic.ttf') format('truetype'),
+    url('../fonts/CooperHewittInterpol3-HeavyItalic.svg') format('svg');
+  font-weight: 900;
+  font-style: italic;
+}

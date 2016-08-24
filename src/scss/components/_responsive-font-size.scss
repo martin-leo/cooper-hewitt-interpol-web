@@ -1,0 +1,11 @@
+.responsive-font-size {
+  @include respond-to('small') {
+    font-size: 4vw;
+  }
+}
+
+.responsive-font-size--big {
+  @include respond-to('small') {
+    font-size: 16vw;
+  }
+}

@@ -1,0 +1,20 @@
+.box {
+  border: 5px solid black;
+  padding: 1em;
+}
+
+.box--double {
+  border-width: 10px;
+}
+
+.box--ltr {
+  border-bottom: none;
+}
+
+.box--lrb {
+  border-top: none;
+}
+
+.box--rounded {
+  border-radius: 20px;
+}

@@ -1,0 +1,62 @@
+body {
+  font-size: 2em;
+  line-height: 1.25;
+}
+/*
+  Typeface
+*/
+.cooper-hewitt-interpol-1 {
+  font-family: "Cooper Hewitt Interpol 1", sans-serif;
+}
+.cooper-hewitt-interpol-2 {
+  font-family: "Cooper Hewitt Interpol 2", sans-serif;
+}
+.cooper-hewitt-interpol-3 {
+  font-family: "Cooper Hewitt Interpol 3", sans-serif;
+}
+/*
+  Style
+*/
+.normal {
+  font-style: normal;
+}
+.italic {
+  font-style: italic;
+}
+/*
+  Weight
+
+  - Available styles :
+    - normal
+    - italic
+
+   - Available weights :
+    - 100 : Thin
+    - 300 : Light
+    - 400/normal : Book
+    - 500 : Medium
+    - 600 : Semibold
+    - 700/bold : Bold
+    - 900 : Heavy
+*/
+.thin {
+  font-weight: 100;
+}
+.light {
+  font-weight: 300;
+}
+.book {
+  font-weight: 400;
+}
+.medium {
+  font-weight: 500;
+}
+.semibold {
+  font-weight: 600;
+}
+.bold {
+  font-weight: 700;
+}
+.heavy {
+  font-weight: 900;
+}

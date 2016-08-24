@@ -1,0 +1,15 @@
+$breakpoints: (
+  'small': (max-width: 699px),
+  'very-small': (max-width: 499px),
+);
+
+/*
+  Typographie
+*/
+
+$typographie-size : 2em;
+$typographie-size--mobile : 7vw;
+$typographie-line-height : 1.2em;
+
+
+$colors--main : rgba(229,229,229,1);
