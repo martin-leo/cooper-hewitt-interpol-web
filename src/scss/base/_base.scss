@@ -8,8 +8,10 @@ body {
   //align-items: center;
   text-align: center;
   margin-top: 1em;
+  overflow-x: hidden;
 }
 
 h1 {
   font-size: 4em;
+  overflow-wrap: break-word;
 }
